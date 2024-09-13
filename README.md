@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1.Instal node.js 
+2.Clone repository
+3.Open the console and position ourselves in the root folder using a cd and path
+4.Write code . for open VS Code
 
 ## Available Scripts
 
